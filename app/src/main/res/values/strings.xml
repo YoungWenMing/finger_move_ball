@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ball</string>
+    <string name="color_setting">设置颜色</string>
+    <string name="play_form">操作方式</string>
+    <string name="color_info_root">您选择的颜色是</string>
+    <string name="size_set">尺寸设置</string>
+
+</resources>
